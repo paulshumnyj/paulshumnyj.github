@@ -1,0 +1,17 @@
+.bg-list{
+    background: rgb(22,9,247);
+background: linear-gradient(180deg, rgba(22,9,247,1) 0%, rgba(9,115,121,1) 35%, rgba(255,246,0,1) 85%);
+    width: 60%;
+
+}
+p{
+    color:whitesmoke;
+}
+
+.text-cente {
+    color: rgb(171, 213, 238);
+}
+.effect{
+    
+    background: rgba(61, 1, 1, 0.308);
+}
